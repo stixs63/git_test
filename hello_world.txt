@@ -1,1 +1,3 @@
-Learning to commit to git is a real FAFF but i'm getting there !
+Learning to commit to git is a real interesting and hard to get your head round
+
+ but i'm getting there !
